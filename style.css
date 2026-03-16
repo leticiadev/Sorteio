@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    /* Define a fonte da página */
+ 
+    display: flex;
+    /* Ativa o modo flexbox para centralização */
+ 
+    justify-content: center;
+    /* Centraliza horizontalmente */
+ 
+    align-items: center;
+    /* Centraliza verticalmente */
+ 
+    height: 100vh;
+    /* Faz o body ocupar 100% da altura da tela */
+ 
+    transition: background-color 0.5s;
+    /* Anima a troca de cor suavemente */
+}
+ 
+.container {
+    background: white;
+    /* Fundo branco do card */
+ 
+    padding: 40px;
+    /* Espaçamento interno */
+ 
+    border-radius: 12px;
+    /* Bordas arredondadas */
+ 
+    text-align: center;
+    /* Centraliza o texto */
+ 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    /* Sombra para dar efeito moderno */
+}
+ 
+button {
+    padding: 10px 20px;
+    /* Espaçamento interno do botão */
+ 
+    font-size: 16px;
+    /* Tamanho do texto */
+ 
+    cursor: pointer;
+    /* Muda o cursor para "mãozinha" */
+ 
+    margin: 15px 0;
+    /* Espaçamento vertical */
+}
+ 
+#resultado {
+    font-size: 20px;
+    /* Aumenta o tamanho do texto do resultado */
+ 
+    font-weight: bold;
+    /* Deixa o texto em negrito */
+}
+ 
+/* Classes de fundo */
+.grifinoria-bg { background-color: #740001; }
+.sonserina-bg { background-color: #1a472a; }
+.corvinal-bg { background-color: #0e1a40; }
+.lufalufa-bg { background-color: #ecb939; }
+ 
+/* Classes de texto */
+.grifinoria-text { color: #740001; }
+.sonserina-text { color: #1a472a; }
+.corvinal-text { color: #0e1a40; }
+.lufalufa-text { color: #ecb939; }
+ 
