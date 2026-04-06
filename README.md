@@ -1,40 +1,49 @@
-🏰 Sorteador de Casas de Hogwarts
-Este projeto consiste em uma aplicação simples desenvolvida com HTML, CSS e JavaScript que realiza o sorteio de uma casa de Hogwarts, inspirada no universo de Harry Potter.
-O objetivo é praticar conceitos básicos de desenvolvimento web, estilização com CSS e lógica de programação com JavaScript.
+🏰 Sorteador de Casas de Hogwarts 🏰
 
-🎯 Objetivo do Projeto
-Criar uma aplicação interativa capaz de:
+📌 Descrição do Projeto
+Este projeto é uma aplicação simples desenvolvida com HTML, CSS e JavaScript inspirada no universo de Harry Potter.
+A aplicação realiza o sorteio aleatório de uma das casas de Hogwarts e exibe o resultado diretamente na tela, de forma dinâmica e interativa.
+
+O sistema foi criado com o objetivo de praticar conceitos básicos de front-end e lógica de programação utilizando JavaScript.
+
+🎯 Objetivo
+O objetivo deste projeto é praticar fundamentos do desenvolvimento web, como:
+Estruturação de páginas com HTML
+Estilização e organização visual com CSS
+Lógica de sorteio usando JavaScript
+Manipulação do DOM para atualizar a tela
+Criação de interação com o usuário através de botões
+
+✅ Funcionalidades
+📌 O sistema permite:
 Sortear aleatoriamente uma casa de Hogwarts
-Exibir o resultado na tela de forma dinâmica
-Trabalhar conceitos fundamentais de front-end
+Exibir o resultado na tela automaticamente
+Interface simples e fácil de usar
+Atualização dinâmica sem recarregar a página
+
+🏠 Casas possíveis no sorteio:
+🦁 Grifinória
+🐍 Sonserina
+🦅 Corvinal
+🦡 Lufa-Lufa
+
+🛠 Tecnologias Utilizadas
+HTML5
+CSS3
+JavaScript
 
 ⚙️ Como Funciona
-A aplicação possui um botão que, ao ser clicado:
+Ao clicar no botão de sorteio, o sistema:
 Executa uma função em JavaScript
-Seleciona aleatoriamente uma das casas (Grifinória, Sonserina, Corvinal ou Lufa-Lufa)
-Atualiza o conteúdo da página exibindo o resultado do sorteio
-
-💻 Tecnologias Utilizadas
-HTML5 → Estrutura da página
-CSS3 → Estilização e layout
-JavaScript → Lógica do sorteio e interação com o usuário
-🧪 Funcionalidade Principal
-Sorteio aleatório de casas de Hogwarts
-Atualização dinâmica do conteúdo na tela
-Interface simples e intuitiva
-
+Escolhe aleatoriamente uma casa de Hogwarts
+Atualiza a página exibindo o resultado do sorteio
 
 🚀 Possíveis Melhorias Futuras
-Adicionar animações ao sortear
+Adicionar animações no momento do sorteio
 Incluir imagens ou brasões das casas
-Implementar sons ou efeitos visuais
-Permitir histórico de sorteios
-Melhorar o design responsivo para dispositivos móveis
+Implementar efeitos sonoros e visuais
+Criar um histórico de sorteios
+Melhorar o layout responsivo para celular
 
-📚 Aprendizados
-Durante o desenvolvimento deste projeto, foi possível praticar:
-Estruturas condicionais e funções em JavaScript
-Organização de código front-end
-Boas práticas para projetos de portfólio,
-
-
+📌 Autor
+Projeto desenvolvido para fins de estudo e prática de HTML, CSS e JavaScript.
